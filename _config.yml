@@ -1,7 +1,6 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 plugins:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
 
@@ -9,17 +8,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: SJ's Blog
+subtitle: "Welcome SJ's Blog :)"
+email: 22000532@gmail.com
+name: SeungJae Lee
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  This is Blog for Assignment.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://SeungJae-Lee22000532" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -199,6 +198,6 @@ protocols:
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/SeungJae-Lee22000532"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:SeungJae-Lee22000532/SeungJae-Lee22000532.github.io.git"
